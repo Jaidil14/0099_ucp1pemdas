@@ -36,7 +36,6 @@
         cout << "Masukkan Nama: ";
         cin >> Mahasiswa[i];
     }
-
     Digunakan untuk melakukan perulangan input nama Mahasiswa.
 */
 
